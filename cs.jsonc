@@ -1,0 +1,42 @@
+{
+	"serverfolder": "Amber PVP",
+	"files":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/Ne4to-podobnoe/ambercontent/main/content.cbpak",
+			"export": "pvpcontent.cbpak",
+			"hash": "a4da9c766dee4de88138716c01ba8d54"
+		}
+	],
+	"objects":
+	[
+		{
+			"id": 300,
+			"filename": "addons/Amber PVP/Maps/de_dust2/de_dust2.b3d"
+		},
+		{
+			"id": 301,
+			"filename": "addons/Amber PVP/Maps/cs_office/cs_office.b3d"
+		},
+		{
+			"id": 302,
+			"filename": "addons/Amber PVP/Maps/de_mirage/de_mirage.b3d"
+		},
+		{
+			"id": 303,
+			"filename": "addons/Amber PVP/Maps/cs_italy/cs_italy.b3d"
+		},
+		{
+			"id": 304,
+			"filename": "addons/Amber PVP/Maps/de_survivor/de_survivor.b3d"
+		},
+		{
+			"id": 305,
+			"filename": "addons/Amber PVP/Maps/cs_mansion/cs_mansion.b3d"
+		},
+		{
+			"id": 306,
+			"filename": "addons/Amber PVP/Maps/de_nuke/de_nuke.b3d"
+		}
+	]
+}
